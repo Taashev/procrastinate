@@ -1,0 +1,9 @@
+.procrastinate__footer {
+  margin-top: 70px;
+}
+
+@media (max-width: 424px) {
+  .procrastinate__footer {
+    margin-top: 40px;
+  }
+}

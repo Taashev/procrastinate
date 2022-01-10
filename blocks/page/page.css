@@ -6,15 +6,17 @@
   min-width: 320px;
   min-height: 100vh;
   margin: 0 auto;
-  padding: 0 15px;
   /* Основные настройки страницы */
   color: #fff;
   background: #323131;
   /* Настроки шрифта страницы */
   font-size: 16px;
   font-weight: 400;
-  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-family: 'Suisse', Arial, Helvetica, sans-serif;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }

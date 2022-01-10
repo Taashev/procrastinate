@@ -1,0 +1,15 @@
+.procrastinate__header {
+  margin-bottom: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+@media (max-width: 424px) {
+  .procrastinate__header {
+    margin-bottom: 40px;
+    flex-direction: column;
+  }
+}

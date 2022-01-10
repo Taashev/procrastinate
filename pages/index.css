@@ -2,6 +2,10 @@
 @import url(../vendor/normalize.css);
 
 
+/* fonts ========================================== */
+@import url(../vendor/fonts/Suisse/font.css);
+
+
 /* root =========================================== */
 @import url(../blocks/root/root.css);
 
@@ -12,3 +16,25 @@
 
 /* page =========================================== */
 @import url(../blocks/page/page.css);
+
+
+/* procrastinate ================================== */
+@import url(../blocks/procrastinate/procrastinate.css);
+/* __header */
+@import url(../blocks/procrastinate/procrastinate__header/procrastinate__header.css);
+/* __title */
+@import url(../blocks/procrastinate/procrastinate__title/procrastinate__title.css);
+/* __btn */
+@import url(../blocks/procrastinate/procrastinate__btn/procrastinate__btn.css);
+/* __content */
+@import url(../blocks/procrastinate/procrastinate__content/procrastinate__content.css);
+/* __img */
+@import url(../blocks/procrastinate/procrastinate__img/procrastinate__img.css);
+/* __text */
+@import url(../blocks/procrastinate/procrastinate__text/procrastinate__text.css);
+/* __random-text */
+@import url(../blocks/procrastinate/procrastinate__random-text/procrastinate__random-text.css);
+/* __footer */
+@import url(../blocks/procrastinate/procrastinate__footer/procrastinate__footer.css);
+/* __cop */
+@import url(../blocks/procrastinate/procrastinate__cop/procrastinate__cop.css);
