@@ -1,6 +1,6 @@
 .procrastinate__text {
   margin: 0;
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 700;
   line-height: 1.1;
   position: relative;
@@ -18,7 +18,7 @@
 
 @media (max-width: 424px) {
   .procrastinate__text {
-    font-size: 34px;
+    font-size: 33px;
   }
 
   .procrastinate__text:after {

@@ -26,8 +26,6 @@
 @import url(../blocks/procrastinate/procrastinate__title/procrastinate__title.css);
 /* __btn */
 @import url(../blocks/procrastinate/procrastinate__btn/procrastinate__btn.css);
-/* __content */
-@import url(../blocks/procrastinate/procrastinate__content/procrastinate__content.css);
 /* __img */
 @import url(../blocks/procrastinate/procrastinate__img/procrastinate__img.css);
 /* __text */
@@ -38,3 +36,5 @@
 @import url(../blocks/procrastinate/procrastinate__footer/procrastinate__footer.css);
 /* __cop */
 @import url(../blocks/procrastinate/procrastinate__cop/procrastinate__cop.css);
+/* __css-valid */
+@import url(../blocks/procrastinate/procrastinate__css-valid/procrastinate__css-valid.css);
