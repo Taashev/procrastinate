@@ -33,7 +33,7 @@
   opacity: .3;
   background: #eee;
   transform: rotate(-40deg);
-  animation: blink .3s linear 1s;
+  animation: blink .3s linear 1.5s;
 }
 
 @keyframes blink {
